@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/maximize-distance-to-closest-person/
+
 class Solution {
     public int maxDistToClosest(int[] seats) {
         int pre_zeros = -1, suf_zeros = -1, max_zeros = -1, zeros = 0;
