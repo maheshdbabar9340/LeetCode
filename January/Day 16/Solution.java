@@ -1,6 +1,7 @@
 class Solution {
     public int maxDistToClosest(int[] seats) {
         int pre_zeros = -1, suf_zeros = -1, max_zeros = -1, zeros = 0;
+        
         for (int i = 0; i < seats.length; i++) {
             if (seats[i] == 0) {
                 zeros++;
