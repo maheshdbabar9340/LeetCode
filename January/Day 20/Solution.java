@@ -25,4 +25,5 @@ class Solution {
         }
         return hours <= h;
     }
+    
 }
