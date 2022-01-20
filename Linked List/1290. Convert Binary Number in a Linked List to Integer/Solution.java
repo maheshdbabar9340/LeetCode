@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+
 // Approach1:Using ArrayList[T.C:O(n),S.C:O(n)]
 // Explanation:Store all the digits in arraylist and then traverse the list backward and keep adding the element in your answer after multilying it by suitable power of 2.
 
