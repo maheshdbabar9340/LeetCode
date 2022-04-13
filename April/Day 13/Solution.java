@@ -52,6 +52,9 @@ class Solution {
 
 // Second Solution
 
+// Time Complexity = O(n2)
+// Space Complexity = O(1)
+
 class Solution {
     public int[][] generateMatrix(int n) {
         int[][] ans = new int[n][n];
