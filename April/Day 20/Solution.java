@@ -1,5 +1,9 @@
 // https://leetcode.com/problems/binary-search-tree-iterator/
 
+// Time Complexity :- BigO(N)
+
+// Space Complexity :- BigO(logN)
+
 class BSTIterator {
     Queue<Integer> qu;
 
