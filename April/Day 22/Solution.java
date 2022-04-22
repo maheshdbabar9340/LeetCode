@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/design-hashmap/
+
 class MyHashMap {
     int[] map;
     int size = 1;
