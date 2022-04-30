@@ -1,4 +1,6 @@
+
 // https://leetcode.com/problems/path-with-minimum-effort/
+import java.util.*;
 
 class Solution {
     public int minimumEffortPath(int[][] heights) {
@@ -43,3 +45,4 @@ class Solution {
         return efforts[n - 1][m - 1];
     }
 }
+
