@@ -12,7 +12,6 @@ class Solution {
             for (int j = 0; j < matrix[0].length; j++)
                 path = Math.max(path, dfs(i, j));
         }
-
         return path;
     }
 
