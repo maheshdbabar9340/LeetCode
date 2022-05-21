@@ -3,9 +3,7 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-
         int t[][] = new int[n + 1][amount + 1];
-
         return subsetmin(coins, amount, n, t);
     }
 
