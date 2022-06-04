@@ -30,3 +30,12 @@ class Solution {
         return chunks <= m;
     }
 }
+
+int[][] numse = new int[nums.length][nums.length];
+public static int add(int a, int b) {
+
+
+    
+    int result = a + b;
+    return result;
+}
