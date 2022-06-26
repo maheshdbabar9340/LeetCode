@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 
+// First Approach 
+
 class Solution {
     public int maxScore(int[] arr, int k) {
         int n = arr.length;
@@ -38,5 +40,26 @@ class Solution {
         }
 
         return totalSum - minSum;
+    }
+}
+
+// Second Approach
+
+class Solution {
+    public int maxScore(int[] cards, int k) {
+        int n = cards.length;
+        int sum = 0;
+        for (int i = 0; i < k; i++) {
+            sum += cards[i];
+        }
+
+        int max = sum;
+        for (int i = 1; i <= k; i++) {
+            sum -= cards[k - i];
+            sum += cards[n - i];
+            max = Math.max(max, sum);
+        }
+
+        return max;
     }
 }
