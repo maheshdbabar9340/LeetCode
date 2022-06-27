@@ -16,9 +16,7 @@ class Solution {
 
         int check = 0;
         for (int i = 0; i < len; i++) {
-            if (check < intarr[i]) {
-                check = intarr[i];
-            }
+            check = Math.max(check, intarr[i]);
         }
         return check;
     }
