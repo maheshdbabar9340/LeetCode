@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/binary-tree-level-order-traversal/
 
+// TC and SC: O(N) and O(N)
+
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> result = new ArrayList();
@@ -24,5 +26,27 @@ class Solution {
             result.add(currLevel);
         }
         return result;
+    }
+}
+
+// TC and SC: O(N) and O(N)
+
+class Solution {
+    List<List<Integer>> result = new ArrayList();
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        result = new ArrayList<>();
+        if(root == null) return result;
+        traverse(root,0);
+        return result;
+    }
+    private void traverse(TreeNode node, int level) {
+        if(node == null) return;
+        if(result.size() == level) {
+            result.add(new ArrayList<>());
+        }
+        
+        result.get(level).add(node.val);
+        traverse(node.left, level+1);
+        traverse(node.right, level+1);
     }
 }
