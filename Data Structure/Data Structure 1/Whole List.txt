@@ -1,0 +1,261 @@
+217. Contains Duplicate
+Array
+Hash Table
+Sorting
+Easy
+Acceptance 61.1%
+Completed
+53. Maximum Subarray
+Array
+Divide and Conquer
+Dynamic Programming
+Medium
+Acceptance 49.9%
+Completed
+Day 2
+Array
+1. Two Sum
+Array
+Hash Table
+Easy
+Acceptance 49.0%
+Completed
+88. Merge Sorted Array
+Array
+Two Pointers
+Sorting
+Easy
+Acceptance 45.4%
+Completed
+Day 3
+Array
+350. Intersection of Two Arrays II
+Array
+Hash Table
+Two Pointers
+Binary Search
+Sorting
+Easy
+Acceptance 55.4%
+Completed
+121. Best Time to Buy and Sell Stock
+Array
+Dynamic Programming
+Easy
+Acceptance 54.4%
+Completed
+Day 4
+Array
+566. Reshape the Matrix
+Array
+Matrix
+Simulation
+Easy
+Acceptance 62.6%
+Completed
+118. Pascal's Triangle
+Array
+Dynamic Programming
+Easy
+Acceptance 68.1%
+Completed
+Day 5
+Array
+36. Valid Sudoku
+Array
+Hash Table
+Matrix
+Medium
+Acceptance 56.3%
+Completed
+74. Search a 2D Matrix
+Array
+Binary Search
+Matrix
+Medium
+Acceptance 46.2%
+Completed
+Day 6
+String
+387. First Unique Character in a String
+Hash Table
+String
+Queue
+Counting
+Easy
+Acceptance 58.6%
+Completed
+383. Ransom Note
+Hash Table
+String
+Counting
+Easy
+Acceptance 57.7%
+Completed
+242. Valid Anagram
+Hash Table
+String
+Sorting
+Easy
+Acceptance 62.5%
+Completed
+Day 7
+Linked List
+141. Linked List Cycle
+Hash Table
+Linked List
+Two Pointers
+Easy
+Acceptance 46.6%
+Completed
+21. Merge Two Sorted Lists
+Linked List
+Recursion
+Easy
+Acceptance 61.4%
+Completed
+203. Remove Linked List Elements
+Linked List
+Recursion
+Easy
+Acceptance 44.3%
+Completed
+Day 8
+Linked List
+206. Reverse Linked List
+Linked List
+Recursion
+Easy
+Acceptance 71.8%
+Completed
+83. Remove Duplicates from Sorted List
+Linked List
+Easy
+Acceptance 49.6%
+Completed
+Day 9
+Stack / Queue
+20. Valid Parentheses
+String
+Stack
+Easy
+Acceptance 40.8%
+Completed
+232. Implement Queue using Stacks
+Stack
+Design
+Queue
+Easy
+Acceptance 60.4%
+Completed
+Day 10
+Tree
+144. Binary Tree Preorder Traversal
+Stack
+Tree
+Depth-First Search
+Binary Tree
+Easy
+Acceptance 64.0%
+Completed
+94. Binary Tree Inorder Traversal
+Stack
+Tree
+Depth-First Search
+Binary Tree
+Easy
+Acceptance 72.0%
+Completed
+145. Binary Tree Postorder Traversal
+Stack
+Tree
+Depth-First Search
+Binary Tree
+Easy
+Acceptance 65.9%
+Completed
+Day 11
+Tree
+102. Binary Tree Level Order Traversal
+Tree
+Breadth-First Search
+Binary Tree
+Medium
+Acceptance 62.8%
+Completed
+104. Maximum Depth of Binary Tree
+Tree
+Depth-First Search
+Breadth-First Search
+Binary Tree
+Easy
+Acceptance 72.8%
+Completed
+101. Symmetric Tree
+Tree
+Depth-First Search
+Breadth-First Search
+Binary Tree
+Easy
+Acceptance 52.5%
+Completed
+Day 12
+Tree
+226. Invert Binary Tree
+Tree
+Depth-First Search
+Breadth-First Search
+Binary Tree
+Easy
+Acceptance 72.8%
+Completed
+112. Path Sum
+Tree
+Depth-First Search
+Breadth-First Search
+Binary Tree
+Easy
+Acceptance 46.4%
+Completed
+Day 13
+Tree
+700. Search in a Binary Search Tree
+Tree
+Binary Search Tree
+Binary Tree
+Easy
+Acceptance 76.9%
+Completed
+701. Insert into a Binary Search Tree
+Tree
+Binary Search Tree
+Binary Tree
+Medium
+Acceptance 74.7%
+Completed
+Day 14
+Tree
+98. Validate Binary Search Tree
+Tree
+Depth-First Search
+Binary Search Tree
+Binary Tree
+Medium
+Acceptance 31.5%
+Start Now
+653. Two Sum IV - Input is a BST
+Hash Table
+Two Pointers
+Tree
+Depth-First Search
+Breadth-First Search
+Binary Search Tree
+Binary Tree
+Easy
+Acceptance 59.3%
+Start Now
+235. Lowest Common Ancestor of a Binary Search Tree
+Tree
+Depth-First Search
+Binary Search Tree
+Binary Tree
