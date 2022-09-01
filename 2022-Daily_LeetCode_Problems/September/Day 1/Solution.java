@@ -18,3 +18,4 @@ class Solution {
         return count + needHelp(node.left, currentMax) + needHelp(node.right, currentMax);
     }
 }
+
