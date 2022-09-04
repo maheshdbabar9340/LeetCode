@@ -9,13 +9,13 @@ public class running_sum_of_1d_array {
     }
 
     private static int[] runningSum(int[] nums) {
-        int rs[] = new int[nums.length];
+        int res[] = new int[nums.length];
 
         int runningSum = 0;
         for (int i = 0; i < nums.length; i++) {
             runningSum += nums[i];
-            rs[i] = runningSum;
+            res[i] = runningSum;
         }
-        return rs;
+        return res;
     }
 }
